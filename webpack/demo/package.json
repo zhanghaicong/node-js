@@ -1,0 +1,16 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "webpack demo",
+  "scripts": {
+    "start": "webpack",
+    "server": "webpack-dev-server --open --hot"
+  },
+  "author": "zhanghaicong",
+  "license": "ISC",
+  "dependencies": {
+    "json-loader": "^0.5.7",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  }
+}
