@@ -15,3 +15,5 @@
 * [Webpack 入门教程](http://www.runoob.com/w3cnote/webpack-tutorial.html)
 * [入门Webpack](http://www.jianshu.com/p/42e11515c10f)
 * webpack-dev-server : 构建本地服务器
+### vue-cli
+* vue init webpack-simple project-name
